@@ -1,0 +1,2 @@
+D:\Projects\Programming\Math\Debug\Math.dll
+D:\Projects\Programming\Math\Debug\Math.pdb
